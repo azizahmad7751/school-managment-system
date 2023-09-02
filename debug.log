@@ -1,0 +1,1237 @@
+INFO 2023-09-02 21:49:27,491 Watching for file changes with StatReloader
+INFO 2023-09-02 21:51:09,912 Watching for file changes with StatReloader
+INFO 2023-09-02 21:51:24,143 "GET / HTTP/1.1" 302 0
+INFO 2023-09-02 21:51:24,263 "GET /accounts/login/?next=/ HTTP/1.1" 200 3981
+INFO 2023-09-02 21:51:24,615 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58578
+INFO 2023-09-02 21:51:24,630 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2023-09-02 21:51:24,703 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13632
+INFO 2023-09-02 21:51:24,769 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88145
+INFO 2023-09-02 21:51:24,772 "GET /static/dist/css/login-page.css HTTP/1.1" 200 8610
+INFO 2023-09-02 21:51:24,811 "GET /static/dist/img/login.png HTTP/1.1" 200 144918
+INFO 2023-09-02 21:51:24,835 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19724
+INFO 2023-09-02 21:51:24,906 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686707
+INFO 2023-09-02 21:51:24,977 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5251
+INFO 2023-09-02 21:51:25,037 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 57530
+INFO 2023-09-02 21:51:25,039 "GET /static/dist/js/demo.js HTTP/1.1" 200 12616
+INFO 2023-09-02 21:51:25,045 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42383
+INFO 2023-09-02 21:51:25,048 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80698
+INFO 2023-09-02 21:51:26,305 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+WARNING 2023-09-02 21:51:28,826 Not Found: /favicon.ico
+WARNING 2023-09-02 21:51:28,827 "GET /favicon.ico HTTP/1.1" 404 6197
+INFO 2023-09-02 21:51:36,749 "POST /accounts/login/ HTTP/1.1" 200 4106
+INFO 2023-09-02 21:51:47,165 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2023-09-02 21:51:47,307 "GET / HTTP/1.1" 200 9290
+INFO 2023-09-02 21:51:47,367 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25780
+INFO 2023-09-02 21:51:47,587 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2023-09-02 21:51:48,140 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042446
+INFO 2023-09-02 21:51:49,656 "GET /student/list HTTP/1.1" 200 9946
+INFO 2023-09-02 21:51:51,132 "GET /staff/list/ HTTP/1.1" 200 9687
+INFO 2023-09-02 21:51:52,521 "GET /finance/list/ HTTP/1.1" 200 9925
+INFO 2023-09-02 21:51:53,948 "GET /result/create/ HTTP/1.1" 200 10386
+INFO 2023-09-02 21:51:55,058 "GET /result/edit-results/ HTTP/1.1" 200 10104
+INFO 2023-09-02 21:51:55,826 "GET /result/view/all HTTP/1.1" 200 8834
+INFO 2023-09-02 21:51:57,748 "GET /session/list/ HTTP/1.1" 200 11598
+INFO 2023-09-02 21:52:00,340 "GET /student/list HTTP/1.1" 200 9946
+INFO 2023-09-02 21:52:01,882 "GET /student/create/ HTTP/1.1" 200 13612
+INFO 2023-09-02 21:52:58,414 "POST /student/create/ HTTP/1.1" 302 0
+INFO 2023-09-02 21:52:58,602 "GET /student/1/ HTTP/1.1" 200 11310
+INFO 2023-09-02 21:52:58,816 "GET /media/students/passports/WhatsApp_Image_2022-10-03_at_11.59.15_AM.jpeg HTTP/1.1" 200 119548
+INFO 2023-09-02 21:53:11,755 "GET /staff/list/ HTTP/1.1" 200 9687
+INFO 2023-09-02 21:53:13,697 "GET /staff/create/ HTTP/1.1" 200 12600
+INFO 2023-09-02 21:53:22,088 "GET /staff/list/ HTTP/1.1" 200 9687
+INFO 2023-09-02 21:53:24,304 "GET /staff/create/ HTTP/1.1" 200 12600
+INFO 2023-09-02 21:53:28,838 "GET /staff/list/ HTTP/1.1" 200 9687
+INFO 2023-09-02 21:53:32,320 "GET /finance/list/ HTTP/1.1" 200 9925
+INFO 2023-09-02 21:53:34,787 "GET /finance/create/ HTTP/1.1" 200 13420
+INFO 2023-09-02 21:53:59,668 "POST /finance/create/ HTTP/1.1" 302 0
+INFO 2023-09-02 21:53:59,762 "GET /finance/list HTTP/1.1" 301 0
+INFO 2023-09-02 21:53:59,862 "GET /finance/list/ HTTP/1.1" 200 10341
+INFO 2023-09-02 21:54:08,998 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10835
+INFO 2023-09-02 21:54:23,059 "POST /finance/receipt/create?invoice=1 HTTP/1.1" 302 0
+INFO 2023-09-02 21:54:23,162 "GET /finance/list/ HTTP/1.1" 200 10345
+INFO 2023-09-02 21:54:28,780 "GET /finance/bulk-invoice/ HTTP/1.1" 200 9291
+INFO 2023-09-02 21:54:30,986 "GET /finance/list/ HTTP/1.1" 200 10345
+INFO 2023-09-02 21:54:38,620 "GET /result/create/ HTTP/1.1" 200 10555
+INFO 2023-09-02 21:54:42,421 "GET /result/edit-results/ HTTP/1.1" 200 10104
+INFO 2023-09-02 21:54:43,552 "GET /result/view/all HTTP/1.1" 200 8834
+INFO 2023-09-02 21:54:45,570 "GET /result/view/all HTTP/1.1" 200 8834
+INFO 2023-09-02 21:54:49,086 "GET /class/list/ HTTP/1.1" 200 11410
+INFO 2023-09-02 21:54:52,253 "GET /subject/list/ HTTP/1.1" 200 11397
+INFO 2023-09-02 21:54:54,912 "GET /term/list/ HTTP/1.1" 200 12231
+INFO 2023-09-02 21:54:57,676 "GET /session/list/ HTTP/1.1" 200 11598
+INFO 2023-09-02 21:55:02,810 "GET /class/list/ HTTP/1.1" 200 11410
+INFO 2023-09-02 21:55:07,226 "GET /site-config HTTP/1.1" 200 10862
+INFO 2023-09-02 21:55:51,057 "POST /site-config HTTP/1.1" 200 10892
+INFO 2023-09-02 21:55:53,709 "GET /site-config HTTP/1.1" 200 10862
+INFO 2023-09-02 21:55:56,160 "GET /site-config HTTP/1.1" 200 10862
+INFO 2023-09-02 21:56:00,460 "GET /site-config HTTP/1.1" 200 10862
+INFO 2023-09-02 21:56:18,175 "POST /site-config HTTP/1.1" 200 10892
+INFO 2023-09-02 21:56:19,577 "POST /site-config HTTP/1.1" 200 10892
+INFO 2023-09-02 21:56:20,901 "POST /site-config HTTP/1.1" 200 10892
+INFO 2023-09-02 21:56:21,767 "POST /site-config HTTP/1.1" 200 10892
+INFO 2023-09-02 21:56:22,427 - Broken pipe from ('127.0.0.1', 4933)
+INFO 2023-09-02 21:56:22,653 - Broken pipe from ('127.0.0.1', 4924)
+INFO 2023-09-02 21:56:22,817 - Broken pipe from ('127.0.0.1', 4930)
+INFO 2023-09-02 21:56:22,908 "POST /site-config HTTP/1.1" 200 10892
+INFO 2023-09-02 21:56:23,948 "POST /site-config HTTP/1.1" 200 10892
+INFO 2023-09-02 21:56:26,375 "GET /session/list/ HTTP/1.1" 200 11598
+INFO 2023-09-02 21:56:28,033 "GET /site-config HTTP/1.1" 200 10862
+INFO 2023-09-02 21:56:40,492 "GET /subject/list/ HTTP/1.1" 200 11397
+INFO 2023-09-02 21:56:44,267 "GET /class/list/ HTTP/1.1" 200 11410
+INFO 2023-09-02 21:56:51,283 "GET /class/1/delete/ HTTP/1.1" 200 9981
+INFO 2023-09-02 21:56:52,709 "POST /class/1/delete/ HTTP/1.1" 302 0
+INFO 2023-09-02 21:56:52,835 "GET /class/list/ HTTP/1.1" 200 11131
+INFO 2023-09-02 21:56:53,943 "GET /class/2/delete/ HTTP/1.1" 200 9981
+INFO 2023-09-02 21:56:55,232 "POST /class/2/delete/ HTTP/1.1" 302 0
+INFO 2023-09-02 21:56:55,324 "GET /class/list/ HTTP/1.1" 200 10852
+INFO 2023-09-02 21:57:03,343 "POST /class/create/ HTTP/1.1" 302 0
+INFO 2023-09-02 21:57:03,449 "GET /class/list/ HTTP/1.1" 200 11277
+INFO 2023-09-02 21:57:08,844 "POST /class/create/ HTTP/1.1" 302 0
+INFO 2023-09-02 21:57:08,965 "GET /class/list/ HTTP/1.1" 200 11559
+INFO 2023-09-02 21:57:17,549 "POST /class/create/ HTTP/1.1" 302 0
+INFO 2023-09-02 21:57:17,640 "GET /class/list/ HTTP/1.1" 200 11841
+INFO 2023-09-02 21:57:22,907 "POST /class/create/ HTTP/1.1" 302 0
+INFO 2023-09-02 21:57:23,015 "GET /class/list/ HTTP/1.1" 200 12123
+INFO 2023-09-02 21:57:42,825 "GET /finance/list/ HTTP/1.1" 200 9925
+INFO 2023-09-02 21:57:44,526 "GET /student/list HTTP/1.1" 200 10222
+INFO 2023-09-02 21:57:50,675 "GET /staff/list/ HTTP/1.1" 200 9687
+INFO 2023-09-02 21:57:53,148 "GET /staff/create/ HTTP/1.1" 200 12600
+INFO 2023-09-02 21:58:29,356 "POST /staff/create/ HTTP/1.1" 302 0
+INFO 2023-09-02 21:58:29,472 "GET /staff/1/ HTTP/1.1" 200 10827
+INFO 2023-09-02 21:58:34,578 "GET /staff/list/ HTTP/1.1" 200 9889
+INFO 2023-09-02 21:58:41,863 "GET /current-session/ HTTP/1.1" 200 10518
+INFO 2023-09-02 21:58:48,747 "GET /class/list/ HTTP/1.1" 200 11980
+INFO 2023-09-02 21:58:51,411 "GET /term/list/ HTTP/1.1" 200 12231
+INFO 2023-09-02 21:58:53,309 "GET /term/3/delete/ HTTP/1.1" 200 9987
+INFO 2023-09-02 21:58:54,640 "POST /term/3/delete/ HTTP/1.1" 302 0
+INFO 2023-09-02 21:58:54,738 "GET /term/list/ HTTP/1.1" 200 11895
+INFO 2023-09-02 21:59:00,545 "GET /subject/list/ HTTP/1.1" 200 11397
+INFO 2023-09-02 21:59:04,413 "GET /subject/2/delete/ HTTP/1.1" 200 9985
+INFO 2023-09-02 21:59:05,741 "POST /subject/2/delete/ HTTP/1.1" 302 0
+INFO 2023-09-02 21:59:05,879 "GET /subject/list/ HTTP/1.1" 200 11112
+INFO 2023-09-02 21:59:07,188 "GET /subject/1/delete/ HTTP/1.1" 200 9993
+INFO 2023-09-02 21:59:08,157 "POST /subject/1/delete/ HTTP/1.1" 302 0
+INFO 2023-09-02 21:59:08,237 "GET /subject/list/ HTTP/1.1" 200 10823
+INFO 2023-09-02 21:59:55,653 "POST /subject/create/ HTTP/1.1" 302 0
+INFO 2023-09-02 21:59:55,761 "GET /subject/list/ HTTP/1.1" 200 11285
+INFO 2023-09-02 22:00:01,619 "GET /session/list/ HTTP/1.1" 200 11598
+INFO 2023-09-02 22:00:16,178 "POST /session/create/ HTTP/1.1" 302 0
+INFO 2023-09-02 22:00:16,278 "GET /session/list/ HTTP/1.1" 200 12086
+INFO 2023-09-02 22:00:19,619 "GET /result/view/all HTTP/1.1" 200 8834
+INFO 2023-09-02 22:00:21,045 "GET /result/edit-results/ HTTP/1.1" 200 10104
+INFO 2023-09-02 22:00:21,919 "GET /result/create/ HTTP/1.1" 200 10554
+INFO 2023-09-02 22:00:24,127 "GET /finance/list/ HTTP/1.1" 200 9925
+INFO 2023-09-02 22:00:25,592 "GET /student/list HTTP/1.1" 200 10222
+INFO 2023-09-02 22:00:29,721 "GET /student/upload/ HTTP/1.1" 200 10001
+INFO 2023-09-02 22:00:39,018 "GET /student/create/ HTTP/1.1" 200 13696
+INFO 2023-09-02 22:01:22,017 "POST /student/create/ HTTP/1.1" 302 0
+INFO 2023-09-02 22:01:22,117 "GET /student/2/ HTTP/1.1" 200 11257
+INFO 2023-09-02 22:01:22,184 "GET /static/dist/img/avatar.png HTTP/1.1" 200 8543
+INFO 2023-09-02 22:01:32,042 "GET /student/2/update/ HTTP/1.1" 200 13744
+INFO 2023-09-02 22:01:34,384 "POST /student/2/update/ HTTP/1.1" 302 0
+INFO 2023-09-02 22:01:34,492 "GET /student/2/ HTTP/1.1" 200 11254
+INFO 2023-09-02 22:01:44,543 "GET /student/list HTTP/1.1" 200 10505
+INFO 2023-09-02 22:02:04,475 "GET / HTTP/1.1" 200 9290
+INFO 2023-09-02 22:02:05,733 "GET / HTTP/1.1" 200 9290
+INFO 2023-09-02 22:02:08,401 "GET / HTTP/1.1" 200 9290
+INFO 2023-09-02 22:02:09,183 "GET /staff/list/ HTTP/1.1" 200 9889
+INFO 2023-09-02 22:02:15,183 "GET /finance/list/ HTTP/1.1" 200 9925
+INFO 2023-09-02 22:02:17,649 "GET /finance/create/ HTTP/1.1" 200 13552
+INFO 2023-09-02 22:03:01,773 "POST /finance/create/ HTTP/1.1" 302 0
+INFO 2023-09-02 22:03:01,865 "GET /finance/list HTTP/1.1" 301 0
+INFO 2023-09-02 22:03:01,965 "GET /finance/list/ HTTP/1.1" 200 10343
+INFO 2023-09-02 22:03:08,432 "GET /finance/2/detail/ HTTP/1.1" 200 11072
+INFO 2023-09-02 22:03:19,912 "GET /finance/2/update/ HTTP/1.1" 200 14900
+INFO 2023-09-02 22:03:22,797 "POST /finance/2/update/ HTTP/1.1" 302 0
+INFO 2023-09-02 22:03:22,907 "GET /finance/2/detail/ HTTP/1.1" 200 11072
+INFO 2023-09-02 22:03:41,305 "GET /result/create/ HTTP/1.1" 200 10729
+INFO 2023-09-02 22:03:48,974 "POST /result/create/ HTTP/1.1" 200 10785
+INFO 2023-09-02 22:03:54,129 "POST /result/create/ HTTP/1.1" 302 0
+INFO 2023-09-02 22:03:54,221 "GET /result/edit-results/ HTTP/1.1" 200 10781
+INFO 2023-09-02 22:04:00,575 "POST /result/edit-results/ HTTP/1.1" 302 0
+INFO 2023-09-02 22:04:00,689 "GET /result/edit-results/ HTTP/1.1" 200 10924
+INFO 2023-09-02 22:04:06,446 "POST /result/edit-results/ HTTP/1.1" 302 0
+INFO 2023-09-02 22:04:06,557 "GET /result/edit-results/ HTTP/1.1" 200 10924
+INFO 2023-09-02 22:04:09,346 "GET /result/view/all HTTP/1.1" 200 9847
+INFO 2023-09-02 22:04:11,489 "GET /result/edit-results/ HTTP/1.1" 200 10781
+INFO 2023-09-02 22:04:18,939 "GET /student/list HTTP/1.1" 200 10505
+INFO 2023-09-02 22:04:21,831 "GET /finance/list/ HTTP/1.1" 200 10343
+INFO 2023-09-02 22:04:24,256 "GET /finance/create/ HTTP/1.1" 200 13552
+INFO 2023-09-02 22:04:49,845 "POST /finance/create/ HTTP/1.1" 302 0
+INFO 2023-09-02 22:04:49,945 "GET /finance/list HTTP/1.1" 301 0
+INFO 2023-09-02 22:04:50,071 "GET /finance/list/ HTTP/1.1" 200 10770
+INFO 2023-09-02 22:04:57,404 "GET / HTTP/1.1" 200 9290
+INFO 2023-09-02 22:05:02,362 "GET /current-session/ HTTP/1.1" 200 10519
+ERROR 2023-09-02 22:05:07,892 Internal Server Error: /current-session/
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\views.py", line 271, in post
+    return render(request, self.template_name, {"form": form})
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\template\backends\django.py", line 62, in render
+    return self.template.render(context)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\template\base.py", line 173, in render
+    with context.bind_template(self):
+  File "C:\Users\Ahmad\lib\contextlib.py", line 135, in __enter__
+    return next(self.gen)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\template\context.py", line 254, in bind_template
+    updates.update(processor(self.request))
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\context_processors.py", line 6, in site_defaults
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:05:07,897 "POST /current-session/ HTTP/1.1" 500 118463
+ERROR 2023-09-02 22:05:11,544 Internal Server Error: /current-session/
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py", line 10, in __call__
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:05:11,545 "POST /current-session/ HTTP/1.1" 500 70349
+ERROR 2023-09-02 22:05:16,276 Internal Server Error: /current-session/
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py", line 10, in __call__
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:05:16,277 "GET /current-session/ HTTP/1.1" 500 69412
+ERROR 2023-09-02 22:05:20,904 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py", line 10, in __call__
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:05:20,908 "GET / HTTP/1.1" 500 69236
+ERROR 2023-09-02 22:05:23,179 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py", line 10, in __call__
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:05:23,181 "GET / HTTP/1.1" 500 69249
+ERROR 2023-09-02 22:05:26,147 Internal Server Error: /finance/list/
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py", line 10, in __call__
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:05:26,149 "GET /finance/list/ HTTP/1.1" 500 69371
+ERROR 2023-09-02 22:05:27,993 Internal Server Error: /finance/create/
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py", line 10, in __call__
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:05:27,995 "GET /finance/create/ HTTP/1.1" 500 69260
+ERROR 2023-09-02 22:05:33,665 Internal Server Error: /current-session/
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py", line 10, in __call__
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:05:33,666 "GET /current-session/ HTTP/1.1" 500 69408
+ERROR 2023-09-02 22:05:37,226 Internal Server Error: /staff/list/
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py", line 10, in __call__
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:05:37,228 "GET /staff/list/ HTTP/1.1" 500 69349
+ERROR 2023-09-02 22:05:43,040 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py", line 10, in __call__
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:05:43,042 "GET / HTTP/1.1" 500 69090
+ERROR 2023-09-02 22:05:50,543 Internal Server Error: /current-session/
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py", line 10, in __call__
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:05:50,544 "GET /current-session/ HTTP/1.1" 500 69411
+ERROR 2023-09-02 22:05:52,804 Internal Server Error: /current-session/
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py", line 10, in __call__
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:05:52,807 "GET /current-session/ HTTP/1.1" 500 69411
+ERROR 2023-09-02 22:05:59,543 Internal Server Error: /term/list/
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py", line 10, in __call__
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:05:59,545 "GET /term/list/ HTTP/1.1" 500 69344
+ERROR 2023-09-02 22:06:08,987 Internal Server Error: /current-session/
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py", line 10, in __call__
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:06:08,989 "GET /current-session/ HTTP/1.1" 500 69411
+ERROR 2023-09-02 22:07:40,505 Internal Server Error: /current-session/
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py", line 10, in __call__
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:07:40,507 "GET /current-session/ HTTP/1.1" 500 69411
+ERROR 2023-09-02 22:07:45,195 Internal Server Error: /current-session/
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py", line 10, in __call__
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:07:45,196 "GET /current-session/ HTTP/1.1" 500 69411
+ERROR 2023-09-02 22:08:10,162 Internal Server Error: /accounts/logout/
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py", line 10, in __call__
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:08:10,164 "GET /accounts/logout/ HTTP/1.1" 500 69402
+ERROR 2023-09-02 22:08:19,462 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py", line 10, in __call__
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:08:19,463 "GET / HTTP/1.1" 500 69090
+INFO 2023-09-02 22:08:45,537 Watching for file changes with StatReloader
+ERROR 2023-09-02 22:08:53,458 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py", line 10, in __call__
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:08:53,462 "GET / HTTP/1.1" 500 69227
+ERROR 2023-09-02 22:09:00,760 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py", line 10, in __call__
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:09:00,762 "GET / HTTP/1.1" 500 69090
+ERROR 2023-09-02 22:09:26,747 Internal Server Error: /admin
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py", line 10, in __call__
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:09:26,748 "GET /admin HTTP/1.1" 500 69040
+INFO 2023-09-02 22:09:41,170 Watching for file changes with StatReloader
+INFO 2023-09-02 22:09:48,651 Watching for file changes with StatReloader
+ERROR 2023-09-02 22:10:01,474 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py", line 10, in __call__
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:10:01,477 "GET / HTTP/1.1" 500 69364
+ERROR 2023-09-02 22:10:04,063 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py", line 10, in __call__
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:10:04,065 "GET / HTTP/1.1" 500 69090
+INFO 2023-09-02 22:12:53,571 C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py changed, reloading.
+INFO 2023-09-02 22:12:55,450 Watching for file changes with StatReloader
+ERROR 2023-09-02 22:13:05,169 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py", line 15, in __call__
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:13:05,173 "GET / HTTP/1.1" 500 69293
+ERROR 2023-09-02 22:13:12,658 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py", line 15, in __call__
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:13:12,660 "GET / HTTP/1.1" 500 69293
+INFO 2023-09-02 22:13:24,335 Watching for file changes with StatReloader
+ERROR 2023-09-02 22:13:31,744 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py", line 15, in __call__
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:13:31,750 "GET / HTTP/1.1" 500 69156
+INFO 2023-09-02 22:15:25,591 C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\middleware.py changed, reloading.
+INFO 2023-09-02 22:15:26,972 Watching for file changes with StatReloader
+ERROR 2023-09-02 22:15:32,077 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\template\backends\django.py", line 62, in render
+    return self.template.render(context)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\template\base.py", line 173, in render
+    with context.bind_template(self):
+  File "C:\Users\Ahmad\lib\contextlib.py", line 135, in __enter__
+    return next(self.gen)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\template\context.py", line 254, in bind_template
+    updates.update(processor(self.request))
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\context_processors.py", line 6, in site_defaults
+    current_term = AcademicTerm.objects.get(current=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:15:32,083 "GET / HTTP/1.1" 500 98884
+INFO 2023-09-02 22:17:21,484 C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\context_processors.py changed, reloading.
+INFO 2023-09-02 22:17:23,182 Watching for file changes with StatReloader
+INFO 2023-09-02 22:17:25,687 "GET / HTTP/1.1" 200 9290
+ERROR 2023-09-02 22:17:27,962 Internal Server Error: /current-session/
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\views.py", line 251, in get
+    "current_term": AcademicTerm.objects.get(current=True),
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:17:27,969 "GET /current-session/ HTTP/1.1" 500 88387
+INFO 2023-09-02 22:17:30,252 "GET /staff/list/ HTTP/1.1" 200 9889
+INFO 2023-09-02 22:17:31,685 "GET /student/list HTTP/1.1" 200 10505
+INFO 2023-09-02 22:17:33,261 "GET /staff/list/ HTTP/1.1" 200 9889
+INFO 2023-09-02 22:17:34,152 "GET /finance/list/ HTTP/1.1" 200 10770
+INFO 2023-09-02 22:17:35,268 "GET /result/create/ HTTP/1.1" 200 10729
+INFO 2023-09-02 22:17:36,952 "GET /result/edit-results/ HTTP/1.1" 200 10781
+INFO 2023-09-02 22:17:37,602 "GET /result/view/all HTTP/1.1" 200 9847
+INFO 2023-09-02 22:17:39,609 "GET /session/list/ HTTP/1.1" 200 11941
+INFO 2023-09-02 22:17:41,568 "GET /term/list/ HTTP/1.1" 200 11966
+ERROR 2023-09-02 22:17:44,687 Internal Server Error: /current-session/
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Ahmad\Desktop\Django\Django-School-Management-System-master\sms\apps\corecode\views.py", line 251, in get
+    "current_term": AcademicTerm.objects.get(current=True),
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+apps.corecode.models.AcademicTerm.MultipleObjectsReturned: get() returned more than one AcademicTerm -- it returned 2!
+ERROR 2023-09-02 22:17:44,688 "GET /current-session/ HTTP/1.1" 500 88397
+INFO 2023-09-02 22:17:48,459 "GET /student/list HTTP/1.1" 200 10505
+INFO 2023-09-02 22:17:49,192 "GET /staff/list/ HTTP/1.1" 200 9889
+INFO 2023-09-02 22:17:50,453 "GET /finance/list/ HTTP/1.1" 200 10770
+INFO 2023-09-02 22:17:53,144 "GET /finance/create/ HTTP/1.1" 200 13552
+INFO 2023-09-02 22:18:14,517 "POST /finance/create/ HTTP/1.1" 302 0
+INFO 2023-09-02 22:18:14,617 "GET /finance/list HTTP/1.1" 301 0
+INFO 2023-09-02 22:18:14,759 "GET /finance/list/ HTTP/1.1" 200 11190
+INFO 2023-09-02 22:18:19,384 "GET /finance/list/ HTTP/1.1" 200 11190
+INFO 2023-09-02 22:18:40,391 "GET /finance/list/ HTTP/1.1" 200 11190
+INFO 2023-09-02 22:18:42,867 "GET /result/create/ HTTP/1.1" 200 10729
+INFO 2023-09-02 22:18:44,784 "GET /result/edit-results/ HTTP/1.1" 200 10781
+INFO 2023-09-02 22:18:45,600 "GET /result/create/ HTTP/1.1" 200 10729
+INFO 2023-09-02 22:18:46,599 "POST /result/create/ HTTP/1.1" 200 10873
+INFO 2023-09-02 22:18:52,336 "GET /finance/list/ HTTP/1.1" 200 11190
+INFO 2023-09-02 22:18:56,591 "GET /finance/3/detail/ HTTP/1.1" 200 11085
+INFO 2023-09-02 22:37:01,742 "GET /finance/3/detail/ HTTP/1.1" 200 11229
+INFO 2023-09-02 22:37:17,793 "GET /staff/list/ HTTP/1.1" 200 9889
+INFO 2023-09-02 22:37:19,374 "GET /student/list HTTP/1.1" 200 10505
+INFO 2023-09-02 22:37:23,409 "GET /student/2/ HTTP/1.1" 200 11617
+INFO 2023-09-02 22:39:43,360 "GET /student/2/ HTTP/1.1" 200 11780
+INFO 2023-09-02 22:39:54,935 "GET /student/list HTTP/1.1" 200 10505
+INFO 2023-09-02 22:39:56,151 "GET /staff/list/ HTTP/1.1" 200 9889
+INFO 2023-09-02 22:39:58,351 "GET /staff/1/ HTTP/1.1" 200 10684
+INFO 2023-09-02 22:40:00,218 "GET /staff/1/update/ HTTP/1.1" 200 12643
+INFO 2023-09-02 22:40:01,884 "GET /staff/list/ HTTP/1.1" 200 9889
+INFO 2023-09-02 22:40:04,310 "GET /staff/list/ HTTP/1.1" 200 9889
+INFO 2023-09-02 22:40:06,651 "GET /staff/1/ HTTP/1.1" 200 10684
+INFO 2023-09-02 22:40:19,726 "GET /staff/list/ HTTP/1.1" 200 9889
+INFO 2023-09-02 22:40:22,576 "GET /staff/1/ HTTP/1.1" 200 10684
+INFO 2023-09-02 22:41:04,875 "GET /staff/1/ HTTP/1.1" 200 10847
+INFO 2023-09-02 22:41:10,900 "GET /result/create/ HTTP/1.1" 200 10729
+INFO 2023-09-02 22:41:15,891 "GET /result/edit-results/ HTTP/1.1" 200 10781
+INFO 2023-09-02 22:41:17,600 "GET /result/view/all HTTP/1.1" 200 9847
+INFO 2023-09-02 22:41:20,083 "GET /result/edit-results/ HTTP/1.1" 200 10781
+INFO 2023-09-02 22:41:22,008 "GET /result/create/ HTTP/1.1" 200 10729
+INFO 2023-09-02 22:41:32,885 "GET /result/view/all HTTP/1.1" 200 9847
+INFO 2023-09-02 22:41:37,233 "GET /site-config HTTP/1.1" 200 10862
+INFO 2023-09-02 22:41:40,591 "GET /site-config HTTP/1.1" 200 10862
+INFO 2023-09-02 22:44:33,811 "POST /site-config HTTP/1.1" 200 10873
+INFO 2023-09-02 22:44:35,861 "POST /site-config HTTP/1.1" 200 10873
+INFO 2023-09-02 22:46:38,175 "GET / HTTP/1.1" 200 9290
+INFO 2023-09-02 22:47:54,056 "POST /site-config HTTP/1.1" 200 10873
+INFO 2023-09-02 22:47:55,215 "GET /student/list HTTP/1.1" 200 10505
+INFO 2023-09-02 22:47:56,256 "GET /site-config HTTP/1.1" 200 10862
+WARNING 2023-09-02 22:48:10,827 "GET /static/plugins/Datatables/pdfmake.min.js.map HTTP/1.1" 404 1865
+INFO 2023-09-02 22:48:11,098 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 318045
+INFO 2023-09-02 22:48:11,134 "GET /static/plugins/toastr/toastr.js.map HTTP/1.1" 200 25633
+INFO 2023-09-02 22:48:11,233 "GET /static/dist/js/adminlte.js.map HTTP/1.1" 200 113276
+INFO 2023-09-02 22:48:11,296 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 200 2149167
+WARNING 2023-09-02 22:49:48,292 "GET /static/plugins/Datatables/pdfmake.min.js.map HTTP/1.1" 404 1865
+WARNING 2023-09-02 22:54:04,613 Not Found: /admin
+WARNING 2023-09-02 22:54:04,614 "GET /admin HTTP/1.1" 404 6179
+INFO 2023-09-02 22:57:22,619 "GET /site-config HTTP/1.1" 200 10862
+WARNING 2023-09-02 23:03:11,082 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.: /site-config
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\backends\db.py", line 86, in save
+    obj.save(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 976, in _save_table
+    updated = self._do_update(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 1040, in _do_update
+    return filtered._update(values) > 0
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 1215, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor = super().execute_sql(result_type)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\sql\compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: database is locked
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\middleware.py", line 59, in process_response
+    request.session.save()
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\backends\db.py", line 95, in save
+    raise UpdateError
+django.contrib.sessions.backends.base.UpdateError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\middleware.py", line 61, in process_response
+    raise SessionInterrupted(
+django.contrib.sessions.exceptions.SessionInterrupted: The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2023-09-02 23:03:13,300 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.: /site-config
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\backends\db.py", line 86, in save
+    obj.save(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 976, in _save_table
+    updated = self._do_update(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 1040, in _do_update
+    return filtered._update(values) > 0
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 1215, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor = super().execute_sql(result_type)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\sql\compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: database is locked
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\middleware.py", line 59, in process_response
+    request.session.save()
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\backends\db.py", line 95, in save
+    raise UpdateError
+django.contrib.sessions.backends.base.UpdateError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\middleware.py", line 61, in process_response
+    raise SessionInterrupted(
+django.contrib.sessions.exceptions.SessionInterrupted: The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2023-09-02 23:03:16,822 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.: /
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\backends\db.py", line 86, in save
+    obj.save(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 976, in _save_table
+    updated = self._do_update(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 1040, in _do_update
+    return filtered._update(values) > 0
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 1215, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor = super().execute_sql(result_type)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\sql\compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: database is locked
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\middleware.py", line 59, in process_response
+    request.session.save()
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\backends\db.py", line 95, in save
+    raise UpdateError
+django.contrib.sessions.backends.base.UpdateError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\middleware.py", line 61, in process_response
+    raise SessionInterrupted(
+django.contrib.sessions.exceptions.SessionInterrupted: The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2023-09-02 23:03:16,824 "GET / HTTP/1.1" 400 159955
+INFO 2023-09-02 23:03:32,764 Watching for file changes with StatReloader
+WARNING 2023-09-02 23:03:40,910 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.: /
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\backends\db.py", line 86, in save
+    obj.save(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 976, in _save_table
+    updated = self._do_update(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 1040, in _do_update
+    return filtered._update(values) > 0
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 1215, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor = super().execute_sql(result_type)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\sql\compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: database is locked
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\middleware.py", line 59, in process_response
+    request.session.save()
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\backends\db.py", line 95, in save
+    raise UpdateError
+django.contrib.sessions.backends.base.UpdateError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\middleware.py", line 61, in process_response
+    raise SessionInterrupted(
+django.contrib.sessions.exceptions.SessionInterrupted: The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2023-09-02 23:03:40,919 "GET / HTTP/1.1" 400 159955
+WARNING 2023-09-02 23:03:47,451 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.: /admin
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\backends\db.py", line 86, in save
+    obj.save(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 976, in _save_table
+    updated = self._do_update(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 1040, in _do_update
+    return filtered._update(values) > 0
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 1215, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor = super().execute_sql(result_type)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\sql\compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: database is locked
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\middleware.py", line 59, in process_response
+    request.session.save()
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\backends\db.py", line 95, in save
+    raise UpdateError
+django.contrib.sessions.backends.base.UpdateError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\middleware.py", line 61, in process_response
+    raise SessionInterrupted(
+django.contrib.sessions.exceptions.SessionInterrupted: The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2023-09-02 23:03:50,546 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.: /
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\backends\db.py", line 86, in save
+    obj.save(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 976, in _save_table
+    updated = self._do_update(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 1040, in _do_update
+    return filtered._update(values) > 0
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 1215, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor = super().execute_sql(result_type)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\sql\compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: database is locked
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\middleware.py", line 59, in process_response
+    request.session.save()
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\backends\db.py", line 95, in save
+    raise UpdateError
+django.contrib.sessions.backends.base.UpdateError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\middleware.py", line 61, in process_response
+    raise SessionInterrupted(
+django.contrib.sessions.exceptions.SessionInterrupted: The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2023-09-02 23:03:52,369 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.: /
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\backends\db.py", line 86, in save
+    obj.save(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 976, in _save_table
+    updated = self._do_update(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 1040, in _do_update
+    return filtered._update(values) > 0
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 1215, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor = super().execute_sql(result_type)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\sql\compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: database is locked
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\middleware.py", line 59, in process_response
+    request.session.save()
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\backends\db.py", line 95, in save
+    raise UpdateError
+django.contrib.sessions.backends.base.UpdateError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\middleware.py", line 61, in process_response
+    raise SessionInterrupted(
+django.contrib.sessions.exceptions.SessionInterrupted: The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2023-09-02 23:03:52,371 "GET / HTTP/1.1" 400 159818
+WARNING 2023-09-02 23:04:30,709 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.: /
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\backends\db.py", line 86, in save
+    obj.save(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 976, in _save_table
+    updated = self._do_update(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 1040, in _do_update
+    return filtered._update(values) > 0
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 1215, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor = super().execute_sql(result_type)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\sql\compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: database is locked
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\middleware.py", line 59, in process_response
+    request.session.save()
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\backends\db.py", line 95, in save
+    raise UpdateError
+django.contrib.sessions.backends.base.UpdateError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\middleware.py", line 61, in process_response
+    raise SessionInterrupted(
+django.contrib.sessions.exceptions.SessionInterrupted: The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2023-09-02 23:04:30,712 "GET / HTTP/1.1" 400 160089
+INFO 2023-09-02 23:04:54,416 "GET / HTTP/1.1" 302 0
+INFO 2023-09-02 23:04:54,581 "GET /accounts/login/?next=/ HTTP/1.1" 200 3981
+INFO 2023-09-02 23:04:55,258 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2023-09-02 23:04:55,274 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58578
+INFO 2023-09-02 23:04:55,336 "GET /static/dist/img/login.png HTTP/1.1" 200 144918
+INFO 2023-09-02 23:04:55,344 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13632
+INFO 2023-09-02 23:04:55,368 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5251
+INFO 2023-09-02 23:04:55,374 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80698
+INFO 2023-09-02 23:04:55,380 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42383
+INFO 2023-09-02 23:04:55,432 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19724
+INFO 2023-09-02 23:04:55,470 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 57530
+INFO 2023-09-02 23:04:55,475 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686707
+INFO 2023-09-02 23:04:55,505 "GET /static/dist/js/demo.js HTTP/1.1" 200 12616
+INFO 2023-09-02 23:04:55,539 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88145
+INFO 2023-09-02 23:04:55,599 "GET /static/dist/css/login-page.css HTTP/1.1" 200 8610
+INFO 2023-09-02 23:04:56,166 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+WARNING 2023-09-02 23:04:56,936 Not Found: /favicon.ico
+WARNING 2023-09-02 23:04:56,937 "GET /favicon.ico HTTP/1.1" 404 6197
+INFO 2023-09-02 23:05:02,603 "POST /accounts/login/ HTTP/1.1" 200 4106
+ERROR 2023-09-02 23:05:17,162 Internal Server Error: /accounts/login/
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\views\decorators\debug.py", line 92, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\auth\views.py", line 90, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\views\generic\edit.py", line 153, in post
+    return self.form_valid(form)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\auth\views.py", line 109, in form_valid
+    auth_login(self.request, form.get_user())
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\auth\__init__.py", line 118, in login
+    request.session.cycle_key()
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\backends\base.py", line 304, in cycle_key
+    self.create()
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\backends\db.py", line 54, in create
+    self.save(must_create=True)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\contrib\sessions\backends\db.py", line 86, in save
+    obj.save(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 1006, in _save_table
+    results = self._do_insert(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\base.py", line 1047, in _do_insert
+    return manager._insert(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\query.py", line 1790, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\models\sql\compiler.py", line 1660, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Ahmad\sms\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: database is locked
+ERROR 2023-09-02 23:05:17,168 "POST /accounts/login/ HTTP/1.1" 500 205878
+INFO 2023-09-02 23:05:36,055 "GET / HTTP/1.1" 200 9296
+INFO 2023-09-02 23:06:10,413 "GET / HTTP/1.1" 200 9296
+INFO 2023-09-02 23:06:12,072 "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2023-09-02 23:06:12,085 "GET / HTTP/1.1" 302 0
+INFO 2023-09-02 23:06:12,177 "GET /accounts/login/?next=/ HTTP/1.1" 200 3987
