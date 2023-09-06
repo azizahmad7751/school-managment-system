@@ -8,7 +8,7 @@ This app is meant to be used by school manager to manage their school records:
 
 You can also do it's live preview...
 
-User name: admin
+User name: admin | 
 Password: admin123
 
 
