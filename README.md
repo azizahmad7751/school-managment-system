@@ -14,7 +14,7 @@ Password: admin123
 
 #Online Preview
 
-[live preview of School Managment system](http://covid2019.pythonanywhere.com/)
+[School Managment system](http://covid2019.pythonanywhere.com/)
 
 
 
