@@ -10,7 +10,7 @@ You can also do it's live preview...
 User name: admin
 Password: admin123
 
-![live preview of School Managment system](http://covid2019.pythonanywhere.com/)
+[live preview of School Managment system](http://covid2019.pythonanywhere.com/)
 
 
 
