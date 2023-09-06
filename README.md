@@ -7,8 +7,12 @@ This app is meant to be used by school manager to manage their school records:
  - finances.
 
 You can also do it's live preview...
+
 User name: admin
 Password: admin123
+
+
+#Online Preview
 
 [live preview of School Managment system](http://covid2019.pythonanywhere.com/)
 
